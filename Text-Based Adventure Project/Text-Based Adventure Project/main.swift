@@ -6,9 +6,6 @@
 //  Copyright © 2019 Stephanie N. Ramos. All rights reserved.
 //
 
-
-// cd ~/Documents/Pursuit-Projects/Unit\ 1/Projects/Pursuit-Core-iOS-Unit1-Assignment1/Text-Based\ Adventure\ Project/Text-Based\ Adventure\ Project
-
 import Foundation
 
 //Command + R -builds and checks for erros
